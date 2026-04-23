@@ -4,6 +4,7 @@ proyecto FullStack año 2026
 COMANDOS GIT
 
 // ir a la carpeta del proyecto
+
 cd nombre-del-repo
 
 
