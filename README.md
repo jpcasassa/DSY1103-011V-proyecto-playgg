@@ -9,65 +9,87 @@ cd nombre-del-repo
 
 
 // iniciar git en un proyecto nuevo
+
 git init
 
 
 // clonar un repositorio desde github
+
 git clone URL_DEL_REPO
 
+
 // entrar al repo clonado
+
 cd nombre-del-repo
 
 
 // ver estado actual (archivos modificados, pendientes, etc)
+
 git status
 
 
 // agregar TODOS los cambios
+
 git add .
 
+
 // agregar un archivo específico
+
 git add archivo.java
 
 
 // guardar cambios con mensaje
+
 git commit -m "mensaje descriptivo"
 
 
 // subir cambios al repositorio remoto
+
 git push
 
+
 // subir por primera vez una rama nueva
+
 git push -u origin nombre-rama
 
 
 // traer cambios del repositorio remoto
+
 git pull
 
 
 // ver ramas locales
+
 git branch
 
+
 // ver TODAS las ramas (incluye remotas)
+
 git branch -a
 
 
 // cambiarse a una rama existente
+
 git checkout nombre-rama
 
+
 // crear una nueva rama y cambiarse a ella
+
 git checkout -b nombre-rama
 
 
 // unir cambios de otra rama (ej: develop) a la actual
+
 git merge develop
 
 
 // eliminar una rama local
+
 git branch -d nombre-rama
 
 
 // ver en qué rama estás actualmente
+
 git branch
 
 
