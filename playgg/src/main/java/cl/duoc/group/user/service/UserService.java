@@ -1,7 +1,7 @@
-package cl.duoc.group.playgg.service;
+package cl.duoc.group.user.service;
 
-import cl.duoc.group.playgg.model.User;
-import cl.duoc.group.playgg.repository.UserRepository;
+import cl.duoc.group.user.model.User;
+import cl.duoc.group.user.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

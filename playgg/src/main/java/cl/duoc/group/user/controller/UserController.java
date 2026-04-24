@@ -1,7 +1,7 @@
-package cl.duoc.group.playgg.controller;
+package cl.duoc.group.user.controller;
 
-import cl.duoc.group.playgg.model.User;
-import cl.duoc.group.playgg.service.UserService;
+import cl.duoc.group.user.model.User;
+import cl.duoc.group.user.service.UserService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package cl.duoc.group.playgg.model;
+package cl.duoc.group.user.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
